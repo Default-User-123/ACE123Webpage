@@ -1,3 +1,32 @@
+IP addresses of Semrush Bot ( Site Audit ): 85.208.98.192, 85.208.98.193, 85.208.98.194, 85.208.98.195, 85.208.98.196, 85.208.98.197, 85.208.98.198, 85.208.98.199, 85.208.98.200, 85.208.98.201
+
+REQUEST:
+curl -i -sS -L --proto-redir -all,http,https --max-time 5 -A 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; SiteAuditBot/0.97; +http://www.semrush.com/bot.html)' https://www.ace123.org/
+
+RESPONSE:
+HTTP/2 200 
+server: GitHub.com
+content-type: text/html; charset=utf-8
+last-modified: Tue, 10 May 2022 01:27:40 GMT
+access-control-allow-origin: *
+strict-transport-security: max-age=31556952
+etag: "6279bf8c-b1e2"
+expires: Tue, 10 May 2022 01:53:18 GMT
+cache-control: max-age=600
+x-proxy-cache: MISS
+x-github-request-id: EBB2:4924:CA8907:14427F2:6279C336
+accept-ranges: bytes
+date: Tue, 10 May 2022 01:50:59 GMT
+via: 1.1 varnish
+age: 460
+x-served-by: cache-iad-kiad7000046-IAD
+x-cache: HIT
+x-cache-hits: 1
+x-timer: S1652147459.053968,VS0,VE1
+vary: Accept-Encoding
+x-fastly-request-id: 4b61c7a320aadcde13697fb8dccb08414ce27ee5
+content-length: 45538
+
 <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
@@ -5,8 +34,8 @@
     <meta charset="utf-8">
     <meta name="title" content="ACE 123">
     <meta name="description" content="ACE 123 Handyman services for bathroom and kitchen remodels and floor renovations, plumbing repairs along with electrical near Naperville">
-    <meta name="keywords" content="Plumbing repairs, sink installation, sink replacement, faucet installation, faucet replacement, toilet installation, toilet replacement, light fixture installation, fan installation, recessed light installation, room painting, sump pump installation, sump pump replacement, deck staining, vinyl floor installation, Vanity Installation, spigot replacement, landscape lights, general contractor, home repairs, deck repairs, cabinet resurfacing, bathroom renovation, bathroom remodel, kitchen remodel, kitchen renovation, Mulching, Drywall repair, Demolition, outlet replacement, Furniture assembly, master bathroom remodel, Gutter Cleaning, Install chandelier, replace chandelier, replace shower valve, replace garbage disposal, install garbage disposal, Change panel breaker, toilet wax ring, screen door installation, screen door replacement, handyman near aurora, handyman near naperville, oswego,  MONTGOMERY​, PLAINFIELD, YORKVILLE, BOLINGBROOK, ST CHARLES, GENEVA, BATAVIA, ROMEOVILLE, DOWNERS GROVE, WHEATON, CAROL STREAM, LOMBARD, OAKBROOK, LISLE">
-    <meta name="robots" content="index, follow" />
+    <meta name="keywords" content="Plumbing repairs, sink installation, sink replacement, faucet installation, faucet replacement, toilet installation, toilet replacement, light fixture installation, fan installation, recessed light installation, room painting, sump pump installation, sump pump replacement, deck staining, vinyl floor installation, Vanity Installation, spigot replacement, landscape lights, general contractor, home repairs, deck repairs, cabinet resurfacing, bathroom renovation, bathroom remodel, kitchen remodel, kitchen renovation, Mulching, Drywall repair, Demolition, outlet replacement, Furniture assembly, master bathroom remodel, Gutter Cleaning, Install chandelier, replace chandelier, replace shower valve, replace garbage disposal, install garbage disposal, Change panel breaker, toilet wax ring, screen door installation, screen door replacement, handyman near aurora, handyman near naperville, oswego,  MONTGOMERY?, PLAINFIELD, YORKVILLE, BOLINGBROOK, ST CHARLES, GENEVA, BATAVIA, ROMEOVILLE, DOWNERS GROVE, WHEATON, CAROL STREAM, LOMBARD, OAKBROOK, LISLE">
+    <meta name="robots" content="noindex, nofollow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="60 days">
@@ -209,7 +238,7 @@ c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
                 <div class="u-container-layout u-container-layout-1">
                   <h1 class="u-text u-text-white u-text-1">Your Ace In The House </h1>
                   <p class="u-custom-font u-font-lobster u-large-text u-text u-text-body-alt-color u-text-variant u-text-2"> &nbsp;A company that offers superior general contracting services that combine quality and affordability. </p>
-                  <p class="u-text u-text-body-alt-color u-text-3">Servicing Aurora, oswego, naperville, montgomery​, plainfield, yorkville, bolingbrook, st charles, geneva, batavia, romeoville, downers grove, wheaton, carol stream, lombard, oakbrook, Lisle</p>
+                  <p class="u-text u-text-body-alt-color u-text-3">Servicing Aurora, oswego, naperville, montgomery?, plainfield, yorkville, bolingbrook, st charles, geneva, batavia, romeoville, downers grove, wheaton, carol stream, lombard, oakbrook, Lisle</p>
                   <a href="/Contact-Us.html" data-page-id="1915238" class="u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-button-style u-hover-white u-palette-3-base u-text-active-palette-1-base u-text-hover-palette-1-base u-btn-1">Contact us</a>
                 </div>
               </div>
@@ -316,7 +345,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-28 u-white u-layout-cell-2">
                 <div class="u-container-layout u-valign-middle u-container-layout-2">
                   <h2 class="u-text u-text-1"> Increase the worth of your home</h2>
-                  <p class="u-text u-text-2">Owning a home isn’t only an emotional experience. It’s also a financial decision that can pay dividends as you<a href="https://www.fscb.com/personal/home-equity" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">build up equity in your home</a>&nbsp;and see your property value increase over time. <br>
+                  <p class="u-text u-text-2">Owning a home isn?t only an emotional experience. It?s also a financial decision that can pay dividends as you<a href="https://www.fscb.com/personal/home-equity" class="u-active-none u-border-none u-btn u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">build up equity in your home</a>&nbsp;and see your property value increase over time. <br>
                     <br>In a recent survey, it was revealed that home improvement can increase the worth of any property by $47,000. This implies that you can see a 72 percent return on investment.
                   </p>
                   <a href="https://www.fscb.com/blog/6-ways-you-can-increase-the-value-of-your-home" class="u-active-palette-1-base u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-base u-border-palette-1-base u-btn u-button-style u-hover-palette-1-base u-none u-text-active-white u-text-hover-white u-btn-2" target="_blank">view more</a>
@@ -359,7 +388,7 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
                     <li>
                       <div class="u-list-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content" viewBox="0 0 512 512" id="svg-b5fd"><path d="m256 0c-141.164062 0-256 114.835938-256 256s114.835938 256 256 256 256-114.835938 256-256-114.835938-256-256-256zm0 0" fill="#2196f3"></path><path d="m385.75 201.75-138.667969 138.664062c-4.160156 4.160157-9.621093 6.253907-15.082031 6.253907s-10.921875-2.09375-15.082031-6.253907l-69.332031-69.332031c-8.34375-8.339843-8.34375-21.824219 0-30.164062 8.339843-8.34375 21.820312-8.34375 30.164062 0l54.25 54.25 123.585938-123.582031c8.339843-8.34375 21.820312-8.34375 30.164062 0 8.339844 8.339843 8.339844 21.820312 0 30.164062zm0 0" fill="#fafafa"></path></svg>
-                      </div>We'll clean up when we’re done.
+                      </div>We'll clean up when we?re done.
                     </li>
                     <li>
                       <div class="u-list-icon">

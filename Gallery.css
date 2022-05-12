@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/bathroom32.jpg");
+  background-image: url("/images/bathroom32.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -411,7 +411,7 @@
     width: 340px;
   }
 } .u-section-3 {
-  background-image: url("images/IMG_0777.jpg");
+  background-image: url("/images/IMG_0777.jpg");
 }
 
 .u-section-3 .u-sheet-1 {
@@ -743,7 +743,7 @@
     margin-bottom: 35px;
   }
 } .u-section-5 {
-  background-image: url("images/IMG_1210.jpg");
+  background-image: url("/images/IMG_1210.jpg");
 }
 
 .u-section-5 .u-sheet-1 {
@@ -1011,7 +1011,7 @@
     width: 340px;
   }
 } .u-section-7 {
-  background-image: url("images/IMG_20210617_185350.jpg");
+  background-image: url("/images/IMG_20210617_185350.jpg");
 }
 
 .u-section-7 .u-sheet-1 {

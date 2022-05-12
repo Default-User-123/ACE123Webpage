@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/IMG_20210527_162925.jpg");
+  background-image: url("/images/IMG_20210527_162925.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -32,7 +32,7 @@
   min-height: 795px;
   margin-top: 0;
   margin-bottom: 0;
-  background-image: url("images/servicemap.png");
+  background-image: url("/images/servicemap.png");
   background-position: 50% 6.88%;
 }
 

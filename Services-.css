@@ -1,6 +1,5 @@
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/images/basement-remodel.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -49,6 +48,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 111px;
   }
@@ -455,7 +458,6 @@
   margin: 20px 0;
 } .u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("/images/g34c76b3ca53903a3491e40deb459c653aa429b3137f9ebaa1122cb3a0734616dcdc47a809b1e942c227596d9d09ee278f2c39bc80343256b2db374578ed8ccc4_1280.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -475,6 +477,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 228px;
   }
@@ -758,7 +764,6 @@
   }
 } .u-section-6 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/images/65834367359__E4824F0D-EA7B-4A5B-8580-A25E1F24E4A7.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -806,6 +811,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 98px;
   }
@@ -947,7 +956,6 @@
   }
 } .u-section-8 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("/images/IMG_1211.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-8 .u-sheet-1 {
@@ -981,6 +989,10 @@
 }
 
 @media (max-width: 575px) {
+   .u-section-8 {
+    background-position: 50% 50%;
+  }
+
   .u-section-8 .u-sheet-1 {
     min-height: 98px;
   }
@@ -1112,7 +1124,6 @@
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("/images/Top-Kitchen-Updates.jpg");
-  background-position: 50% 50%;
 }
 
 .u-section-10 .u-sheet-1 {
@@ -1131,6 +1142,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-10 {
+    background-position: 50% 50%;
+  }
+
   .u-section-10 .u-sheet-1 {
     min-height: 234px;
   }

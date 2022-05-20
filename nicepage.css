@@ -37120,8 +37120,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-icon-3 {
-  height: 100%;
-  color: rgb(3, 155, 229) !important;
+  height: 46px;
 }
 
 .u-footer .u-icon-4 {
@@ -37177,6 +37176,10 @@ a.u-link.u-text-hover-grey-90:hover {
     min-width: 146px;
     margin-top: 6px;
     margin-right: 62px;
+  }
+
+  .u-footer .u-icon-3 {
+    color: rgb(3, 155, 229) !important;
   }
 
   .u-footer .u-text-2 {
